@@ -281,9 +281,8 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				
-				<configuration>
-				</configuration>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.11</version>
 			</plugin>
 			<plugin>
 				<artifactId>maven-failsafe-plugin</artifactId>
