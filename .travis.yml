@@ -6,6 +6,3 @@ jdk:
 branches:
   only:
     - master
-general:
-   artifacts:
-     - $CIRCLE_TEST_REPORTS
